@@ -49,3 +49,12 @@ part of your solution does not need to actually run)
 **Bonus:**
 * The numbers should be printed in ascending order.
 * Imagine `getRandomWord`'s implementation is slow and takes 500ms to complete (call `getRandomWord({ slow: true })` to emulate this). Can you make your solution run in less than 1000ms with the `slow` option turned on?
+
+For the start the node server : http://localhost:5000
+
+point to server.js and 
+```
+run node server.js
+```
+
+* result file will be create rootfolder/resource/data.json
